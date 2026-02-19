@@ -56,5 +56,5 @@ A secure and transparent digital voting platform built using **React, Spring Boo
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Shivasingh15/blockchain-voting-system.git
-cd blockchain-voting-system
+[git clone https://github.com/Shivasingh15/blockchain-voting-system.git
+cd blockchain-voting-system](https://github.com/Shivasingh15/blockchain-voting-system/tree/main)
